@@ -2,5 +2,14 @@ cant guarantee integration tolerances will be great. I usually integrate to 1e-1
 
 Unless specified otherwise, mu=1.215058560962404e-2 (stolen from JPL a while ago).
 
+Numenclature subject to change, but for now it's (body or Lagrange point)(number) (Family Name) (bifurcation type, P=period-multiplying) (notes). For instance:
+
+P2 DPO P3a (spatial) would mean
+- P2-centric
+- Bifurcates from distant prograde orbit family
+- period-tripled, the first (implied of multiple)
+- spatial orbit
+
+When a bifurcation is not symmetric with respect to + or - tangent vector, negative indices denote one direction while positive denote the other direction. If the resulting families are symmetric (i.e. southern vs northern halos) or the same (i.e. many period doublers of planar orbits) then the negatives are omitted
 
 Relies on https://github.com/northstar-code/dynamicslib
