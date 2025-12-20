@@ -13,3 +13,7 @@ P2 DPO P3a (spatial) would mean
 When a bifurcation is not symmetric with respect to + or - tangent vector, negative indices denote one direction while positive denote the other direction. If the resulting families are symmetric (i.e. southern vs northern halos) or the same (i.e. many period doublers of planar orbits) then the negatives are omitted
 
 Relies on https://github.com/northstar-code/dynamicslib
+
+NOTE: There may be (probably is) some repeats between families, i.e. L4 Short Period P4 and L4 Long Period
+
+TODO: I will make a subway map of what connects to what (i.e. where the period multipliers start, the short period -> L3 Lyapunov connection, L4 axial -> L1 NRHO connection, etc)
