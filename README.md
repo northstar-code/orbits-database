@@ -17,3 +17,5 @@ Relies on https://github.com/northstar-code/dynamicslib
 NOTE: There may be (probably is) some repeats between families, i.e. L4 Short Period P4 and L4 Long Period
 
 TODO: I will make a subway map of what connects to what (i.e. where the period multipliers start, the short period -> L3 Lyapunov connection, L4 axial -> L1 NRHO connection, etc)
+
+Feel free to use ICs in your own work without credit, though please do let me know
